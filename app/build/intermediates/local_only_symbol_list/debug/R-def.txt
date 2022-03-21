@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable _3_334252_blue_marbled_glitter_dados_de_20_lados_png
+drawable _8cdc468ea630f3c2a69f406e226ba59
+id buttond12
+id buttond20
+id buttond6
+id imageNum
+id imageView
+id textResultado
+layout activity_main
+layout rd12
+layout rd20
+layout rd6
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Jogodedados
